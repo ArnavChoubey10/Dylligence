@@ -130,7 +130,7 @@ Decision Engine
 
 ------------------------------------------------------------------------
 
-## 🛠️ Suggested Tech Stack
+## 🛠️ Tech Stack Used
 
 ### Backend
 
